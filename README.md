@@ -1,1 +1,1 @@
-# lissjous
+# Generative Art Project
